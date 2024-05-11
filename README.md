@@ -19,5 +19,3 @@ pip install aiogram==2.14
 确保有python3.8以上的坏境
 确保已经正确修改config.py文件
 
-不懂怎么改可以问我
-接机器人定制 联系 @im_shiyi
